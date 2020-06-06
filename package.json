@@ -9,7 +9,7 @@
     "heroku-postbuild": "cd client && yarn && yarn run build"
   },
   "dependencies": {
-    "apollo-server": "^2.8.1",
+    "apollo-server": "^2.14.2",
     "apollo-server-express": "^2.8.1",
     "bcryptjs": "^2.4.3",
     "dotenv": "^8.0.0",
